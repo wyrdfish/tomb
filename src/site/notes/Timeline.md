@@ -10,5 +10,5 @@ visit to Savras temple
 
 Day 2 
 Dinosaur pits.
-10 on melody and 5-1
+...
 

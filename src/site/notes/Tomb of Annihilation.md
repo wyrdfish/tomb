@@ -4,13 +4,13 @@
 
 Master: Chris Burton
 
-[[Party\|Party]]
+[[Party/1. Roster\|1. Roster]]
 
 [[Timeline\|Timeline]] 
 
 ## Locations
-[[locations/port Nyanzaru/Port Nyanzaru\|Port Nyanzaru]]
+[[Locations/Port Nyanzaru/Port Nyanzaru\|Port Nyanzaru]]
 
 ## People
-[[npcs/Sindra Silvain\|Sindra Silvain]]
+[[Npcs/Sindra Silvain\|Sindra Silvain]]
 
