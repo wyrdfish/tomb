@@ -6,5 +6,6 @@ Priest - Grandfather Zitemwe
 
 wizards - truth - oldest temple in town.
 
-Artes Kimba - linked to the Curse? The Zents are 
+Artes Kimba - linked to the Curse? The Zents are after information on him.
+
 

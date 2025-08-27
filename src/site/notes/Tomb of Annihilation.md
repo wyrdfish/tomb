@@ -12,5 +12,5 @@ Master: Chris Burton
 [[Locations/Port Nyanzaru/Port Nyanzaru\|Port Nyanzaru]]
 
 ## People
-[[Npcs/Sindra Silvain\|Sindra Silvain]]
+[[Npcs/Syndra Silvain\|Syndra Silvain]]
 
