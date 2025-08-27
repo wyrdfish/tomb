@@ -4,7 +4,7 @@
 
 [[locations/port Nyanzaru/Grand Souk\|Grand Souk]] - bazzar
 
-Ruled by [[7 merchant princes\|7 merchant princes]].
+Ruled by [[locations/port Nyanzaru/Lords\|Lords]]]]
 
 
 
