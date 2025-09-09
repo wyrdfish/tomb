@@ -12,5 +12,9 @@ visit to Savras temple
 
 Day 2 
 Dinosaur pits.
-...
+Dinosaur racing / gambling.
+golden throne to see Syndra
+
+
+
 

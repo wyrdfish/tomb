@@ -15,4 +15,4 @@ Master: Chris Burton
 [[Npcs/Syndra Silvain\|Syndra Silvain]]
 
 
-s
+The curse 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/npcs/syndra-silvain/"}
 ---
 
-Famous adventurer
+Famous adventurer / explorer
 
 Death cursed
 
