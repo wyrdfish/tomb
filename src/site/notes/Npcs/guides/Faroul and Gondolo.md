@@ -6,4 +6,6 @@ gondolo - hobbit
 
 5gp/day (30 up front).
 
-Bongo - triceratops pack animal.
+Zongo - triceratops pack animal.
+
+![Pasted image 20250916201719.png](/img/user/Npcs/guides/Pasted%20image%2020250916201719.png)
