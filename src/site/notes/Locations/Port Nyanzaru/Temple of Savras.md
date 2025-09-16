@@ -9,3 +9,5 @@ wizards - truth - oldest temple in town.
 Artus Kimba - linked to the Curse? The Zents are after information on him.
 
 
+
+
