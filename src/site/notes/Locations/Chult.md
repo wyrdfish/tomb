@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/locations/chult/"}
 ---
 
-![chult_map.png](/img/user/Locations/chult_map.png)
+![map-2.01-chult-player.jpg](/img/user/Locations/map-2.01-chult-player.jpg)
