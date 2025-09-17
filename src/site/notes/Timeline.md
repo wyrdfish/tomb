@@ -19,7 +19,8 @@ Spoke to Ekene-afa
 Spoke to Zitemwe about a parishioner sentenced to execution run - told to be back later.
 Entered the Execution run to save Draza.
 Neil died - rez offered.
-Zitemwe has passed the message to the harpers to let 
+Zitemwe has passed the message to the harpers to let Artus Krima know we are looking to help them.
+Aazon arrived to take us on a tour of the licensed guides.
 
 
 
