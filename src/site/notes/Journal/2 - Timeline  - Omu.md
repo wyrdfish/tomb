@@ -4,7 +4,8 @@
 
 
 
-Day 36 - yuan-ti warning days 1
+## Day 36
+yuan-ti warning days 1
 
 Saw a vision of blackness exploding in the city in the past. 
 
@@ -69,7 +70,8 @@ we ran away from the golems.
 
 Tried to long rest but was ambushed by yuan-ti.
 
-Day 37 - Yuan-ti warning day 2
+## Day 37
+Yuan-ti warning day 2
 
 We found that we could pull 3 levers to stun 3 golems.
 if we defeated a golem in the pit it dropped a spear and inserting a spear into a statue it would be deleted.
@@ -95,7 +97,8 @@ During the night we heard a huge roar and saw a disturbance of birds in the nort
 At midnight we found we were all poisoned by bag o nails in the stew.
 
 
-Day 38 - yuan-ti warning days 3
+## Day 38
+yuan-ti warning days 3
 
 Examined the shrine on the volcanic pillar, it was 60' away. 
 
@@ -138,7 +141,8 @@ that was more yuan-ti.
 
 long rested.
 
-Day 39 - yuan-ti warning days 4
+Day 39
+yuan-ti warning days 4
 
 Shrine ??
 grung, chief Yorbo.
@@ -157,7 +161,8 @@ COVEREyes
 
 The papazotl cube was not there, we suspect the red wizards.
 
-Day 40 - yuan-ti warning days 5
+## Day 40
+yuan-ti warning days 5
 
 heading to grung shrine. they were not dead.
 
@@ -186,7 +191,8 @@ lion no friend
 lion ate zebra
 
 
-## Day 41 Yuan-ti warning day 6
+## Day 41
+Yuan-ti warning day 6
 
 Dream of a dark figure coming towards me and pointing.
 
@@ -240,15 +246,18 @@ we met zagmira in the market doing a ritual and she summoned a stone to her.
 I saw a vision of the dark guy who said the soulmonger has come.
 
 ## day 42
+
 we awake
 
-and ambushed.
-night serpent
+and get ambushed?
+No it is a dead Yuan-ti with a night serpent medallion (Ras Nsi' gang)
 
+He has a note
 To the Possessors of the 5 cubes.
-Western roof of the house of the crocodile - sunset.
-zagmira
-ras nsi.
+Meet me on the Western roof of the house of the crocodile - sunset.
+(she suggests some sort of compromise)
+Zagmira
+
 
 Went to fire temple - coiled serpents.
 
@@ -257,13 +266,14 @@ dom uses 10pts of healing.
 
 Moa teaches us that  secrets hide the truth.
 
-serpent constricting a monkey.
-tribal warios pointing at the pedestal.
+serpent constricting a monkey on mosaic.
+tribal warios pointing bows at the pedestal.
 
-death rewards a thief deceived truth come from a serpents mouth.
+"death rewards a thief deceived truth come from a serpents mouth."
 
 got cube
 
+Next?
 go to meeting - stealth first?
 sending stone tomorrow.
 hide cubes.
