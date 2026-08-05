@@ -6,7 +6,7 @@ Master: Chris Burton
 
 [[Party/1. Roster\|1. Roster]]
 
-[[Timeline\|Timeline]] 
+[[Journal/1 - Timeline - City and Jungle\|1 - Timeline - City and Jungle]] 
 
 ## Locations
 [[Locations/Port Nyanzaru/Port Nyanzaru\|Port Nyanzaru]]

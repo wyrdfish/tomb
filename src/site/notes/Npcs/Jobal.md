@@ -10,3 +10,7 @@ Guides
 
 looks like he wants to steal our map.
 
+interested party warns us about a potential theft.
+
+
+
