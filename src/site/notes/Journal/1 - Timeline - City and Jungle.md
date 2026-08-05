@@ -401,6 +401,6 @@ red wizard journal part.
 A single threaded token from the yuan-ti leader.
 stamped as a snake and a sword.
 
-[[## Entered Omu] 2 - Timeline - Omu]
+[[Journal/2 - Timeline  - Omu\|2 - Timeline  - Omu]]
 
 
