@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/journal/1-timeline-city-and-jungle/"}
 ---
 
-**Day 1**
+## Day 1
 Meeting Syndra
 Teleport to Chult
 Shopping and Inn visits and a fine dinner
@@ -10,7 +10,7 @@ visit to Savras temple
 
 1. The party secured lodgings, helped the priest (and so need to return) at the temple of Sarvas, raced some dinosaurs and won some coin, identified guides available, and wanted to return to see Syndra tomorrow at Goldenthrone.
 
-**Day 2** 
+## Day 2
 Dinosaur pits.
 Dinosaur racing / gambling.
 golden throne to see Syndra
@@ -22,7 +22,7 @@ Neil died - rez offered.
 Zitemwe has passed the message to the harpers to let Artus Krima know we are looking to help them.
 Aazon arrived to take us on a tour of the licensed guides.
 
-**Day 3**
+## Day 3
 something to do with a warehouse?
 
 At night we were warned someone will take the map.
@@ -31,7 +31,7 @@ Ambushed in room by thugs with sleep venom winged snakes.
 
 A fake Aazon caught the map thrown from the window and ran a wild goose change and his illusion dropped when caught.
 
-**Day 4**
+## Day 4
 Invited to breakfast with Zhanthi Ramas.
 She Acquired our map overnight for a price. Would also like a favour for it. Wants first refusal on treasure found if she returns it. Offered us free supplies if we assisted her.
 Seems to be Zhentarim.
@@ -45,16 +45,16 @@ was told about mysterious magic vendor Zuberi.
 Visited magic vendor and bought things.
 
 
-5 - river day 1
+## 5 - river day 1
 
-6 - river day 2
+## 6 - river day 2
 
-7 - river day 3
+## 7 - river day 3
 
-8 - river day 4
+## 8 - river day 4
 undead boat fight?
 
-**Day 8**
+## Day 8
 
 Got a dinosaur pet.
 got to a trading post.
@@ -64,7 +64,7 @@ Camp Righteous is occupied again. not by undead?
 
 
 
-**Day 9**
+## Day 9
 
 arrived at camp righteous
 huge statue of man with crocodile on his back
@@ -81,25 +81,25 @@ jug that makes beer and water and honey, acid, poison, protection oil.
 **goblin attack**
 - guide on -22
 
-**Day 10**
+## Day 10
 
 We set off on foot and a single boat.
 we found an abandoned camp.
 over night a storm started, we broke camp early.
 
-**Day 11**
+## Day 11
 
 after a while we found a the trail washed out and started to move the supplies over by a boat and pulley affair.
 We also noticed a raptor watching us and the guide tried to distract it while we rolled shit.
 Overnight we met Artus Krima who warned us against the guide. he is the frost guy.
 
 
-**Day 12**
+## Day 12
 
 Found a Grung with a map fragment.
 It looks like zents near Ataaz kahakla
 
-**Day 13**
+## Day 13
 
 Arrived at Camp Vengance.
 Cpt. Niles breakbone (wubble) will want to see us.
@@ -109,20 +109,20 @@ Guide suggested Nangalore.
 Salhana - thinks the Nangalore is a good idea.
 Teron Yudan - human soldier, plate armour, ac18 52 hp. 17,14,17,7,8,9 sdciwc. longsword +2 1d8+8. (2x day can add 1d6 fire damage single target) pass percept 14
 
-**Day 14**
+## Day 14
 
 Road to Nangalore (1)
 Saw a lobsterman who gestured towards Nangalore.
 Overnight we saw a zombie heading north west.
 Also found a dead guy with a hole in his chest with orchids growing out of them.
 
-**Day 15**
+## Day 15
 
 Omu-an queen - kan-an-gee - the hanging gardens of dreams.
 Queen was exiled to here.
 Queen was medusa.
 
-**Day 16** 
+## Day 16
 Arrive at Nangalore (garden of lost dreams)
 Attacked by crocs and accidentally a yellow must zombie who backed off.
 Visage of womans face on wall. serene.
@@ -136,7 +136,7 @@ explored a bit and found a yellow ust creeper and a giant spider.
 
 accidentally found 4 giant snakes.
 
-Day 17
+## Day 17
 
 found a dead wizard and a folding boat.
 got a beetle in a room that cures mad monkey disease.
@@ -148,12 +148,12 @@ tri frond plants almost killed us gathering fruit
 Weird chingua gave neil a coin of greater restoration.
 Rested in birb dome - founda  few gems and scroll of prot from undead.
 
-Day 18
+## Day 18
 went through water to the last dome.
 met queen Zalkoré and possibly Therutaia
 giant black orchid.
 
-Day 19,20,21
+## Day 19,20,21
 Sailing down the river. Orlung
 
 Red 'wizards' with 6 skeletons have offered us a choice to bypass or join.
@@ -163,7 +163,7 @@ Zimara Vaal - almost killed him.
 Azaka saved Ponty by turning into a weretiger.
 We fought several skeletons zombies an ogre zombie and fled on the 3rd wave.
 
-Day 22
+## Day 22
 Cliff monastery.
 
 scary walkway involving climbing rolls.
@@ -174,7 +174,7 @@ leader of aracokra - Ashara
 
 statue of Ubtao (ancient king) tabaxi in the cleansing chamber on the way up.
 
-Day 23
+## Day 23
 
 Monastary
 Chiry is an elderly monk.
@@ -218,7 +218,7 @@ monastry was attacked.
 omu is to the southwest.
 
 
-Day 24
+## Day 24
 
 Ashara - told us of more gargoyle attacks - presumably from Omu.
 A ritual that will allow us flight. 
@@ -227,14 +227,14 @@ set off back to nangalore
 
 uneventful
 
-Day 25
+## Day 25
 
 Arrived at Nangalore
 Attacked by ant things and plants.
 found neil as a stone  statue.
 tried to talk to 
 
-Day 26
+## Day 26
 went to bridge
 
 Mural
@@ -268,7 +268,7 @@ battled some sturges in a cave.
 
 Killed a few more terror folk and holed up to rest.
 
-Day 28
+## Day 28
 went up top and killed the birdmen.
 
 Nephyr - rescued from the caves. 
@@ -278,7 +278,7 @@ Azaka left us to return to her people with her holy mask.
 
 Left with  cunning flying maneuver.
 
-Day 29
+## Day 29
 
 flying to trade post.
 
@@ -286,7 +286,7 @@ found a red wizard and some skellys getting supplies.
 Bought stuff from the zent trader.
 avoided camp vengence and headed south and camped.
 
-Day 30
+## Day 30
 
 Found the wreckage of the star goddess airship.
 attacked by ghouls in wreckage on ground.
@@ -297,7 +297,7 @@ and recued folk.
 then teron got grabbed by a dragon?
 we followed to  mine.
 
-Day 31
+## Day 31
 
 Entered the mine managed to kill a couple of kobolds.
 And sneak all the way down to the bottom. 
@@ -308,7 +308,7 @@ Who demanded a trinket from the dwarven forges of Hrakhamar.
 
 Artus Cimber - floating stone island to the north - the heart of ubtao.
 
-Day 32
+## Day 32
 
 The heart of Ubtao
 A floating heart shaped rock with a single tree and a cave at a lower level with some steps to the top.
@@ -330,7 +330,7 @@ Spoke to Artus - he is after information on
 
 Red wizards are controlled by the Lich Szass Tam. maybe minion in charge here.
 
-Day 33
+## Day 33
 
 Spoke briefly to Velindra.
 Set of for Hrakhamar by air.
@@ -368,7 +368,7 @@ shit loads of adamantium. 2000 adamantium ingots.
 
 at watch we observed that we were being scryed on by a eye of zom (or whatever it is).
 
-Day 34
+## Day 34
 
 re-entered hrakhamar cleared out some newts.
 
@@ -387,7 +387,7 @@ the crucible pulsed as we got near omu/ubtao
 
 landed and camped
 
-Day 35
+## Day 35
 fought some yuan-ti in a ruin - snaketacular.
 found a map showing the north east entrance to omu through a water fall
 the roads are watch, he is coming to you.
@@ -401,5 +401,6 @@ red wizard journal part.
 A single threaded token from the yuan-ti leader.
 stamped as a snake and a sword.
 
-Entered Omu
+[[## Entered Omu] 2 - Timeline - Omu]
+
 
