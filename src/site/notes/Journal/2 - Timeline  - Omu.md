@@ -377,8 +377,8 @@ jaguar call whistle - makes the sound of a jag ahead of us.
 emergency door. small door - opens a cupboard of randomness.
 
 
-
-
+we rested in a the hut... (poor Ponty).
+## Day 44
 
 
 
