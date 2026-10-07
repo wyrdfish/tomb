@@ -359,11 +359,11 @@ they are scared of when Ras Nsi dies.
 called the shop.
 
 0x sip of second chances (red) 25g
-1x jungle blood tonic hearty (green) 50gp 
-1x suntouched elixr - (orange) restore full and somewhat beyond. - 125g
-1x ancestor last word. - (purple) very powerful healing - 200g
-1x miraculous healing - (amber)best healing ever - 500g.
-1xflute - 
+0x jungle blood tonic hearty (green) 50gp 
+0x suntouched elixr - (orange) restore full and somewhat beyond. - 125g
+0x ancestor last word. - (purple) very powerful healing - 200g
+0x miraculous healing - (amber)best healing ever - 500g.
+0xflute - 500g
 
 Unhelpful monkey. - possibly helpful
 compass of bad decisions. points at bad stuff. 
@@ -376,7 +376,7 @@ mask of the gossiping ancestors +1 on listening checks. also talks crap and your
 jaguar call whistle - makes the sound of a jag ahead of us.
 emergency door. small door - opens a cupboard of randomness.
 
-test
+
 
 
 
