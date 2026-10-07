@@ -245,7 +245,7 @@ we met zagmira in the market doing a ritual and she summoned a stone to her.
 
 I saw a vision of the dark guy who said the soulmonger has come.
 
-## day 42
+## Day 42
 
 we awake
 
@@ -278,6 +278,108 @@ go to meeting - stealth first?
 sending stone tomorrow.
 hide cubes.
 palace?
+
+Zagmira will take the most efficient route.
+
+
+It kicked off when snakes attacked our meeting.
+Lady shadowmantle. deathwitch turned up to take zagmira away.
+one of her cubes was taken by the snakes.
+
+
+## Day 43
+
+went under palace via a secret door.
+
+lots of cloth and stuff to make 5 explorers packs.
+case with 10 tightly wrapped blocks. temple incense.
+
+got attacked by zombie maker and zombies.
+
+saw a pit of snakes to the right, backed off.
+went into a cathedral with blood fountains.
+
+Heard conversations: to right.
+Fenthaza - 
+Dendar - 
+
+Three stones. they have ?
+
+Battle was madness stones taken?
+
+it seems that the sneks may have all the stones but its possible that its all just bravado.
+
+to left.
+
+red wizard is gone, stones are here. 
+9 stones open the tomb.
+master is worried about tomb opening.
+
+next room
+red wizard has 3, the master has them.
+the outsiders have 6.
+the master will not let them leave.
+
+dendar the night serpent. and the rise of ras nsi
+
+feeding knigmares to the great serpent.
+gold crown. door to underworld (raz nsi is the crown wearing dude.)
+
+door to underwold opens and releases the serpent and plunges the wold into darkness.
+
+poison gas button, locked door.
+
+yuanti dorm beyond the snake pits.
+
+In the boats we went and found a key on a corpse for the fungus room.
+
+went north and got attacked by hydra.
+
+We went north again and saw a  temple with a bad guy.
+We heard guys behind us and set up an ambush but the guy from the temple heard us and joined the fight he suggested Neil to run away and captured Pete.
+
+We backed off to retrieve neil and then headed north again through the main dungeon but bumped into Guards...
+
+Who downed us all apart from Teron.
+
+Pete has woken up and an is in a pit with.
+
+Small boy with flower garland - prays. Tahvo.
+Yuanti - was talking to Pete. Blue mist fever.
+Tabaxi - was kidnapped. bard. Breath of daylight moon.
+Fire-newt warrior - cant understand.
+star-goddess sailor - female. Oloma auth de mar. 3rd mate. fell out the boat and captured by snakes.
+Harper - was shipwrecked in the river. Lomar
+Goblin - Mung. is also hungry.
+Malnourished tribal warrior. Kanush. 
+human woman (completely normal) - Zilla - talks about cubes. Zhent.
+
+they are scared of when Ras Nsi dies.
+
+called the shop.
+
+0x sip of second chances (red) 25g
+1x jungle blood tonic hearty (green) 50gp 
+1x suntouched elixr - (orange) restore full and somewhat beyond. - 125g
+1x ancestor last word. - (purple) very powerful healing - 200g
+1x miraculous healing - (amber)best healing ever - 500g.
+1xflute - 
+
+Unhelpful monkey. - possibly helpful
+compass of bad decisions. points at bad stuff. 
+boots of the indignant tapir - 1xday double speed for 1 minute
+pocket monsoon. creates rain. could be frogs. 
+fireflies of questionable allegiance  - scouting ahead. 
+self important rope. 50' rope ties knots itself. 
+scarab of unreasonable confidence - advantage on cha check per day.
+mask of the gossiping ancestors +1 on listening checks. also talks crap and your thoughts.
+jaguar call whistle - makes the sound of a jag ahead of us.
+emergency door. small door - opens a cupboard of randomness.
+
+test
+
+
+
 
 
 
