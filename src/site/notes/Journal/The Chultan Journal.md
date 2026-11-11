@@ -247,13 +247,13 @@ The monastery itself was attacked.
 
 Omu lies to the south-west.
 
-I have begun to dislike how often roads lead towards it. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!sde5499dfff834379b297941ab0e26b89)
+I have begun to dislike how often roads lead towards it. 
 
 ### Days 24–28
 
 Ashara told us that gargoyle attacks were increasing, presumably originating from Omu. A ritual could grant us flight.
 
-We returned to Nangalore, encountered hostile creatures and plants, and found Neil transformed into stone.
+We returned to Nangalore, encountered hostile creatures and plants, and found Menes transformed into stone.
 
 By the bridge we discovered a mural bearing cryptic instructions concerning rhythm, breath and dawn.
 
@@ -273,7 +273,7 @@ Azaka Stormfang recovered her holy mask and left us to return to her people.
 
 I had grown accustomed to her presence.
 
-One should be cautious about becoming accustomed to anyone while adventuring. The world interprets attachment as a challenge. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!sde5499dfff834379b297941ab0e26b89)
+One should be cautious about becoming accustomed to anyone while adventuring. The world interprets attachment as a challenge. 
 
 ### Days 29–32
 
@@ -301,7 +301,7 @@ Magical weapons would be advisable.
 
 I carry mine in my thoughts.
 
-For once, this peculiarity seems less eccentric than practical. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!sde5499dfff834379b297941ab0e26b89)
+For once, this peculiarity seems less eccentric than practical. 
 
 ### Days 33–35
 
@@ -327,7 +327,7 @@ The journal warned of serpent factions and advised avoidance of the central shri
 
 Advice regarding ancient cursed cities is traditionally most useful immediately before circumstances make following it impossible.
 
-We continued. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!sde5499dfff834379b297941ab0e26b89)
+We continued. 
 
 ---
 
@@ -365,7 +365,7 @@ We eventually fled its golems.
 
 That night the yuan-ti ambushed us.
 
-I am beginning to think every moral lesson in Omu concludes with something attempting to eat the student. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!seaa75329376c495692d792f37e8c1459)
+I am beginning to think every moral lesson in Omu concludes with something attempting to eat the student. 
 
 ### Days 37–40
 
@@ -393,7 +393,7 @@ We nearly died.
 
 Zagmira, leader of the Red Wizards, was encountered at Wongo's shrine, whose puzzle concerned friendship, hunger and a collection of animal figures.
 
-I confess there are moments when stabbing something with a blade made from pure thought feels much simpler than archaeology. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!seaa75329376c495692d792f37e8c1459)
+I confess there are moments when stabbing something with a blade made from pure thought feels much simpler than archaeology. 
 
 ### Day 41
 
@@ -427,7 +427,7 @@ This time it spoke.
 
 My mind has always been the one place I considered indisputably mine.
 
-I am revising that assumption. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!seaa75329376c495692d792f37e8c1459)
+I am revising that assumption.
 
 ### Day 42
 
@@ -449,7 +449,7 @@ Then the snakes attacked.
 
 During the chaos Lady Shadowmantle, a death witch, appeared and took Zagmira away. One of her cubes fell into yuan-ti hands.
 
-Diplomacy remains concise. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!seaa75329376c495692d792f37e8c1459)
+Diplomacy remains concise. 
 
 ### Day 43
 
@@ -471,27 +471,27 @@ Then matters deteriorated.
 
 We encountered a hydra.
 
-Neil was compelled to flee. Pete was captured.
+Menes was compelled to flee. Ponty was captured.
 
 Attempting to recover our companions led eventually to guards overwhelming almost the entire party. Teron Yudan alone remained standing.
 
-Pete woke in a pit among an improbable collection of prisoners: a praying boy, a yuan-ti, a tabaxi bard, a fire newt warrior, a sailor from the Star Goddess, a Harper, a goblin, a tribal warrior and a Zhentarim woman.
+Ponty woke in a pit among an improbable collection of prisoners: a praying boy, a yuan-ti, a tabaxi bard, a fire newt warrior, a sailor from the Star Goddess, a Harper, a goblin, a tribal warrior and a Zhentarim woman.
 
-There was also, apparently, a shop selling objects with names including the Compass of Bad Decisions, Boots of the Indignant Tapir, Pocket Monsoon, Fireflies of Questionable Allegiance and Self-Important Rope.
+We summoned the shop selling objects with names including the Compass of Bad Decisions, Boots of the Indignant Tapir, Pocket Monsoon, Fireflies of Questionable Allegiance and Self-Important Rope.
 
 I resent the fact that the Compass of Bad Decisions would be useful to us.
 
-We could save considerable time simply pointing it at ourselves. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!seaa75329376c495692d792f37e8c1459)
+We could save considerable time simply pointing it at ourselves.
 
 ### Day 44
 
 Reconnaissance revealed guards, malisons and the palace layout. We gathered rumours concerning Fenthaza and learnt more of Ras Nsi's defences.
 
-Corvyn and Menes reached a teleportation circle.
+Menes and I reached a teleportation circle.
 
 Menes arrived amongst the sacrifice pits.
 
-Corvyn arrived by the Iron Throne.
+I arrived by the Iron Throne.
 
 There are methods of reconnaissance which produce information.
 
@@ -503,9 +503,9 @@ Eventually Ras Nsi received us.
 
 The situation was stranger than anticipated.
 
-He is cursed. He made a pact with the lich Acererak to protect the tomb. Acererak had promised that the arrangement would help bar Dendar from entering the world.
+He is cursed. He made a pact with the lich Acererak to protect the tomb. Acererak had promised that the arrangement would help open the portal blocking Dendar from entering the world.
 
-The tomb had been built by slaves.
+The tomb had been built by slaves of Omu.
 
 And somewhere within it lay the source of the Death Curse we had come to destroy.
 
@@ -515,7 +515,7 @@ I distrust him.
 
 I also distrust Acererak.
 
-It is strangely liberating when one no longer needs to decide which party is lying. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!seaa75329376c495692d792f37e8c1459)
+It is strangely liberating when one no longer needs to decide which party is lying.
 
 ---
 
@@ -565,7 +565,7 @@ But these words do not feel ancient.
 
 They feel expectant.
 
-Behind us lies Port Nyanzaru, the river, Camp Righteous, Nangalore, Kir Sabal, Firefinger, Hrakhamar and ruined Omu. Ahead is a tomb constructed by slaves for dead gods, guarded at the command of a lich, containing something capable of corrupting death itself. [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!sde5499dfff834379b297941ab0e26b89), [[onedrive.live.com\|onedrive.live.com]](https://onedrive.live.com?cid=03dff87c3dbf558c&id=3DFF87C3DBF558C!seaa75329376c495692d792f37e8c1459)
+Behind us lies Port Nyanzaru, the river, Camp Righteous, Nangalore, Kir Sabal, Firefinger, Hrakhamar and ruined Omu. Ahead is a tomb constructed by slaves for dead gods, guarded at the command of a lich, containing something capable of corrupting death itself.
 
 My companions make their preparations.
 
