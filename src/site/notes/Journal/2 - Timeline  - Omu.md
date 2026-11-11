@@ -362,7 +362,7 @@ called the shop.
 0x jungle blood tonic hearty (green) 50gp 
 0x suntouched elixr - (orange) restore full and somewhat beyond. - 125g
 0x ancestor last word. - (purple) very powerful healing - 200g
-0x miraculous healing - (amber)best healing ever - 500g.
+0x miraculous healing - (amber)best healing ever - 500g. the great green reboot.
 0xflute - 500g
 
 Unhelpful monkey. - possibly helpful
@@ -380,8 +380,83 @@ emergency door. small door - opens a cupboard of randomness.
 we rested in a the hut... (poor Ponty).
 ## Day 44
 
+a small reccy of the area found a few guards.
+2 malison's down south.
+
+I wish fentazer? would make her move
+Creepy old man.
+
+Interrogation.
+
+ponty is in the pit.
+
+dude thinks we are working for zagmira. 
+pit is to the left of the main door which is above the dino room.
+disappeary circle.
+bodyguards in harem.
+
+throne room top right
+iron throne.
+
+Tall pureblood. (Champion)
+5 malison
+3 brood guards.
 
 
+ishmacall come?
 
+--
+
+Corvyn and Menes  snuck up to the teleporter.
+Menes teleported to sacrifice pits and Corvyn teleported to iron throne and managed to dodge the bad huys and retreat.
+
+Menes and Ponty Teleported back to the group.
+
+clues:
+Keep your voice down fenthaza has ears everywhere
+
+![Pasted image 20261103183304.png](/img/user/Pasted%20image%2020261103183304.png)
+
+![Pasted image 20261103183348.png](/img/user/Pasted%20image%2020261103183348.png)
+
+![Pasted image 20261103183436.png](/img/user/Pasted%20image%2020261103183436.png)
+
+![Pasted image 20261103183457.png](/img/user/Pasted%20image%2020261103183457.png)
+
+Sekelok - bodyguard.
+
+ras nsi is pissed off.
+
+He made a pact with a 'creature' to keep the tomb safe.
+and he is now cursed.
+
+He will escort us to the tomb.
+
+Acerak -  promised thathe would unlock the gate that will stop Dendar from entering the world.
+defend the tomb.
+
+The slaves built the tomb.
+
+We must destroy the source of the death curse.
+
+he sends someone to escort us to the tomb.
+
+
+Day 45
+
+we are outside the tomb.
+looking at an obelisk.
+
+Fear the night when the forsaken one seizes
+death's mantle and the seas dry up dry up and dead
+rise and i, Acererak the eternal, reap the world
+of the living, those who dare enter take heed:
+
+the enemies oppose.
+one stands between them.
+in darkenss, it hides
+don the mask or be seen.
+speak no truth to the doomed child.
+the keys turn on the inside child.
 
 

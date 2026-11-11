@@ -10,6 +10,3 @@ Soulmonger - causing curse.
 
 Khult - isle of dread
 
-
-
-
